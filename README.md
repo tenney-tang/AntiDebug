@@ -20,9 +20,11 @@ android apk反调试工具，反hook、反xposed、反virtual xposed、反substr
 在Activity中调用此方法即可，AntiDebug.checkDebug()
 注意：
 1.AntiDebug.java文件里面的checkDebug()方法必须重新生成对应的c++函数，否则会报错(一般会自动生成)。
-比如java AntiDebug.checkDebug()对应的C函数Java_com_android_antidebug_AntiDebug_checkDebug，
-其中com_android_antidebug是项目包名（确保AntiDebug.java在此包名下），AntiDebug是java类名，checkDebug是java方法名。
-2.当前使用的编译环境ndk版本为21.4.7075529，Cmake 3.10.2.49988404
-3.配置ndk环境变量，配置好后，在doc窗口用命令ndk-build有ndk信息即可
 
-如有问题欢迎提Issues。
+2.比如java AntiDebug.checkDebug()对应的C函数Java_com_android_antidebug_AntiDebug_checkDebug，其中com_android_antidebug是项目包名（确保AntiDebug.java在此包名下），AntiDebug是java类名，checkDebug是java方法名。
+
+3.当前使用的编译环境ndk版本为21.4.7075529，Cmake 3.10.2.49988404
+
+4.配置ndk环境,以及环境变量，配置好后，在doc窗口用命令ndk-build有ndk信息即可
+
+如有问题欢迎提Issues。（自己作记录用）
