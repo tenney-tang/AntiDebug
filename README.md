@@ -17,9 +17,9 @@ android apk反调试工具，反hook、反xposed、反virtual xposed、反substr
 
 
 # 使用方法：
-在Activity中调用此方法即可，AntiDebug.checkDebug()
-注意：
-1.AntiDebug.java文件里面的checkDebug()方法必须重新生成对应的c++函数，否则会报错(一般会自动生成)。
+0.在Activity中调用此方法即可，AntiDebug.checkDebug()
+
+1.注意：AntiDebug.java文件里面的checkDebug()方法必须重新生成对应的c++函数，否则会报错(一般会自动生成)。
 
 2.比如java AntiDebug.checkDebug()对应的C函数Java_com_android_antidebug_AntiDebug_checkDebug，其中com_android_antidebug是项目包名（确保AntiDebug.java在此包名下），AntiDebug是java类名，checkDebug是java方法名。
 
