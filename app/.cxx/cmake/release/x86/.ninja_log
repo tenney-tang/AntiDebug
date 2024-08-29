@@ -1,0 +1,15 @@
+# ninja log v5
+1	790	746539420	CMakeFiles/AntiDebug.dir/src/main/cpp/native-lib.cpp.o	85fd19295518a8a8
+35	843	746539420	CMakeFiles/AntiDebug.dir/src/main/cpp/AntiDebug.cpp.o	106e6241bec1ec9a
+845	1046	746539420	../../../../build/intermediates/cmake/release/obj/x86/libAntiDebug.so	1b2bfd7fae759799
+4	778	746539810	CMakeFiles/AntiDebug.dir/src/main/cpp/AntiDebug.cpp.o	106e6241bec1ec9a
+779	984	746539810	../../../../build/intermediates/cmake/release/obj/x86/libAntiDebug.so	1b2bfd7fae759799
+0	68	0	clean	3b98247e20e6c35
+0	111	0	clean	3b98247e20e6c35
+1	120	0	clean	3b98247e20e6c35
+2	306	746601056	build.ninja	7c2409c3c823034e
+0	66	0	clean	3b98247e20e6c35
+0	70	0	clean	3b98247e20e6c35
+0	98	0	clean	3b98247e20e6c35
+0	94	0	clean	3b98247e20e6c35
+0	61	0	clean	3b98247e20e6c35

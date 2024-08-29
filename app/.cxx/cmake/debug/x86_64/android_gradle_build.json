@@ -1,0 +1,42 @@
+{
+  "stringTable": {
+    "0": "C:/Users/SeGi/Desktop/demo/AntiDebug/app/.cxx/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=D:/AStudio/ATJL/dev/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/AStudio/ATJL/dev/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DAntiDebug_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "D:\\AStudio\\ATJL\\dev\\Android\\sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+    "D:\\AStudio\\ATJL\\dev\\Android\\sdk\\ndk\\21.4.7075529\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\SeGi\\Desktop\\demo\\AntiDebug\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\AStudio\\ATJL\\dev\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\SeGi\\Desktop\\demo\\AntiDebug\\app\\.cxx\\cmake\\debug\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "D:\\AStudio\\ATJL\\dev\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\SeGi\\Desktop\\demo\\AntiDebug\\app\\.cxx\\cmake\\debug\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "AntiDebug-Debug-x86_64": {
+      "buildCommand": "D:\\AStudio\\ATJL\\dev\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\SeGi\\Desktop\\demo\\AntiDebug\\app\\.cxx\\cmake\\debug\\x86_64\" AntiDebug",
+      "buildType": "debug",
+      "toolchain": "2379896036",
+      "abi": "x86_64",
+      "artifactName": "AntiDebug",
+      "files": [
+        {
+          "src": "C:\\Users\\SeGi\\Desktop\\demo\\AntiDebug\\app\\src\\main\\cpp\\AntiDebug.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\SeGi\\Desktop\\demo\\AntiDebug\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libAntiDebug.so"
+    }
+  },
+  "toolchains": {
+    "2379896036": {
+      "cppCompilerExecutable": "D:\\AStudio\\ATJL\\dev\\Android\\sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

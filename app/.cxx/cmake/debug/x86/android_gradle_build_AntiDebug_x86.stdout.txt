@@ -1,0 +1,3 @@
+ninja: Entering directory `C:\Users\SeGi\Desktop\demo\AntiDebug\app\.cxx\cmake\debug\x86'
+[1/2] Building CXX object CMakeFiles/AntiDebug.dir/src/main/cpp/AntiDebug.cpp.o
+[2/2] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\x86\libAntiDebug.so

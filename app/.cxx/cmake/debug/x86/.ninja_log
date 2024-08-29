@@ -1,0 +1,11 @@
+# ninja log v5
+1	63	0	clean	3b98247e20e6c35
+1	67	0	clean	3b98247e20e6c35
+1	364	746601055	build.ninja	f33f2a6c40fcd16e
+1	62	0	clean	3b98247e20e6c35
+1	63	0	clean	3b98247e20e6c35
+0	61	0	clean	3b98247e20e6c35
+0	67	0	clean	3b98247e20e6c35
+1	71	0	clean	3b98247e20e6c35
+0	876	746601139	CMakeFiles/AntiDebug.dir/src/main/cpp/AntiDebug.cpp.o	efe0110cc3cdc858
+883	1256	746601140	../../../../build/intermediates/cmake/debug/obj/x86/libAntiDebug.so	16f19029775b2b98

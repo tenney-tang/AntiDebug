@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "D:\\AStudio\\ATJL\\dev\\Android\\sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+    "D:\\AStudio\\ATJL\\dev\\Android\\sdk\\ndk\\21.4.7075529\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\SeGi\\Desktop\\demo\\AntiDebug\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\AStudio\\ATJL\\dev\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\SeGi\\Desktop\\demo\\AntiDebug\\app\\.cxx\\cmake\\debug\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "D:\\AStudio\\ATJL\\dev\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\SeGi\\Desktop\\demo\\AntiDebug\\app\\.cxx\\cmake\\debug\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "AntiDebug-Debug-x86_64": {
+      "artifactName": "AntiDebug",
+      "buildCommand": "D:\\AStudio\\ATJL\\dev\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\SeGi\\Desktop\\demo\\AntiDebug\\app\\.cxx\\cmake\\debug\\x86_64\" AntiDebug",
+      "abi": "x86_64",
+      "output": "C:\\Users\\SeGi\\Desktop\\demo\\AntiDebug\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libAntiDebug.so"
+    }
+  }
+}

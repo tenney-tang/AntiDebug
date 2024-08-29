@@ -1,0 +1,7 @@
+Executable : D:\AStudio\ATJL\dev\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\SeGi\Desktop\demo\AntiDebug\app\.cxx\cmake\release\arm64-v8a
+AntiDebug
+jvmArgs : 
+
